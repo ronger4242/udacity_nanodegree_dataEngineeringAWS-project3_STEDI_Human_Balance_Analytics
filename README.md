@@ -69,6 +69,7 @@ Finally, you need to create two Glue Studio jobs that do the following tasks:
   ![image](https://github.com/ronger4242/udacity_nanodegree_dataEngineeringAWS-project3_STEDI_Human_Balance_Analytics/assets/53929071/8ab3cb85-ab1c-4acc-8235-15ab3a0a94d8)
   
 * all glue tables
+  
   ![image](https://github.com/ronger4242/udacity_nanodegree_dataEngineeringAWS-project3_STEDI_Human_Balance_Analytics/assets/53929071/d8533128-6f8f-4439-afbb-28b2e4585e77)
 
   
