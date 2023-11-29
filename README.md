@@ -35,7 +35,20 @@ Finally, you need to create two Glue Studio jobs that do the following tasks:
 
 ## Project Summary
 ### Landing Zone
-*Glue Tables*
-[customer_landing.sql](scripts/customer_landing.sql)
+
+* [customer_landing.sql](scripts/customer_landing.sql)
+* [accelerometer_landing.sql](scripts/accelerometer_landing.sql)
+* [step_trainer_landing.sql](scripts/step_trainer_landing.sql)
+
+### Trusted Zone
+* [customer_trusted.py](scripts/customer_trusted.py)
+* [accelerometer_trusted.py](scripts/accelerometer_trusted.py)
+* [step_trainer_trusted.py](scripts/step_trainer_trusted.py)
+
+### Curated Zone
+* [customers_curated.py](scripts/customers_curated.py)
+* [machine_learning_curated.py](scripts/machine_learning_curated.py)
+
+
 
 
