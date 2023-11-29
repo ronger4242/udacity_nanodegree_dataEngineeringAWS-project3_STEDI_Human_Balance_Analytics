@@ -42,15 +42,36 @@ Finally, you need to create two Glue Studio jobs that do the following tasks:
 
 * count check for landing:
 * ![image](https://github.com/ronger4242/udacity_nanodegree_dataEngineeringAWS-project3_STEDI_Human_Balance_Analytics/assets/53929071/f9b9f84e-04b9-41c6-bba2-97e651c42dbc)
+* count check for customer_landing with blank sharewithresearchasofdate:
+* ![image](https://github.com/ronger4242/udacity_nanodegree_dataEngineeringAWS-project3_STEDI_Human_Balance_Analytics/assets/53929071/0dac5736-fe94-4f12-8d8c-1390a290432a)
+* 
+
+
 
 ### Trusted Zone
 * [customer_trusted.py](scripts/customer_trusted.py)
 * [accelerometer_trusted.py](scripts/accelerometer_trusted.py)
 * [step_trainer_trusted.py](scripts/step_trainer_trusted.py)
 
+* count check for trusted:
+  ![image](https://github.com/ronger4242/udacity_nanodegree_dataEngineeringAWS-project3_STEDI_Human_Balance_Analytics/assets/53929071/4707c647-c5b5-4d11-b48c-f3a65a0d4db0)
+* customer trusted check:
+  ![image](https://github.com/ronger4242/udacity_nanodegree_dataEngineeringAWS-project3_STEDI_Human_Balance_Analytics/assets/53929071/7c5098e4-7574-4a24-b64d-f2abdc4d11dd)
+  ![image](https://github.com/ronger4242/udacity_nanodegree_dataEngineeringAWS-project3_STEDI_Human_Balance_Analytics/assets/53929071/61d96f9f-1a19-49da-90e4-34d6efe6ebcf)
+
+
+
+
 ### Curated Zone
 * [customers_curated.py](scripts/customers_curated.py)
 * [machine_learning_curated.py](scripts/machine_learning_curated.py)
+* count check for curated:
+  ![image](https://github.com/ronger4242/udacity_nanodegree_dataEngineeringAWS-project3_STEDI_Human_Balance_Analytics/assets/53929071/8ab3cb85-ab1c-4acc-8235-15ab3a0a94d8)
+  
+* all glue tables
+  ![image](https://github.com/ronger4242/udacity_nanodegree_dataEngineeringAWS-project3_STEDI_Human_Balance_Analytics/assets/53929071/d8533128-6f8f-4439-afbb-28b2e4585e77)
+
+  
 
 
 
