@@ -40,6 +40,9 @@ Finally, you need to create two Glue Studio jobs that do the following tasks:
 * [accelerometer_landing.sql](scripts/accelerometer_landing.sql)
 * [step_trainer_landing.sql](scripts/step_trainer_landing.sql)
 
+* count check for landing:
+* ![image](https://github.com/ronger4242/udacity_nanodegree_dataEngineeringAWS-project3_STEDI_Human_Balance_Analytics/assets/53929071/f9b9f84e-04b9-41c6-bba2-97e651c42dbc)
+
 ### Trusted Zone
 * [customer_trusted.py](scripts/customer_trusted.py)
 * [accelerometer_trusted.py](scripts/accelerometer_trusted.py)
